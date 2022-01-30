@@ -5,7 +5,7 @@ Menu wipe RageUI V2
 Tout ce que vous pouvez modifié est dans server/events.lua
 
 # California
-Ceux qui utilise une base california peuvent utiliser la meme version que les bases esx standard
+Ceux qui utilise une base california devrait utiliser le script dans la branch california et non master
 
 # Preview
 https://streamable.com/o9kjoz
